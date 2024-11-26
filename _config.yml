@@ -2,5 +2,5 @@ title: Test theme
 description: My Blog
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-slate
+theme: minima
 
